@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Guilherme Lawisch
+
+I'm from Brasil
+
+I'm a programming student
+
 <!--
 **GuilhermeLawisch/GuilhermeLawisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
