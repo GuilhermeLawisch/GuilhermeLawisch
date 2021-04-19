@@ -2,6 +2,8 @@
 
 My name is Guilherme Lawisch
 
+I'm 17 years old
+
 I'm from Brasil
 
 I'm a programming student
