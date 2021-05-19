@@ -2,7 +2,7 @@
 
 My name is Guilherme Lawisch
 
-I'm 18 years old
+:man: I'm 18 years old
 
 I'm from Brasil
 
