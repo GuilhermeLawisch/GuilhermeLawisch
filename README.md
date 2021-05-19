@@ -9,10 +9,10 @@
 - :runner: I'm a programming student
 
 - :book: I have knowledge in: <br>
- HTML/CSS
- JS - ReactJS
- NodeJS - typeorm
- PHP - laravel
+ HTML/CSS <br>
+ JS - ReactJS <br>
+ NodeJS - typeorm <br>
+ PHP - laravel <br>
  SQL - MySQL
 
 <!--
