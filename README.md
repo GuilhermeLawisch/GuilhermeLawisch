@@ -4,7 +4,7 @@
 
 - :muscle: I'm 18 years old
 
-- :br: I'm from Brasil
+- :green_heart: I'm from Brasil
 
 - :runner: I'm a programming student
 
