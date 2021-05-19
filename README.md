@@ -8,6 +8,13 @@
 
 - :runner: I'm a programming student
 
+- :book: I have knowledge in:
+ HTML/CSS
+ JS - ReactJS
+ NodeJS - typeorm
+ PHP - laravel
+ SQL - MySQL
+
 <!--
 **GuilhermeLawisch/GuilhermeLawisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
