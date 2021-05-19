@@ -8,7 +8,7 @@
 
 - :runner: I'm a programming student
 
-- :book: I have knowledge in:
+- :book: I have knowledge in: <br>
  HTML/CSS
  JS - ReactJS
  NodeJS - typeorm
