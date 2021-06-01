@@ -14,8 +14,8 @@
  NodeJS - typeorm <br>
  PHP - laravel <br>
  SQL - MySQL
-
-![Snake animation]GuilhermeLawisch
+ 
+![Snake animation](https://github.com/GuilhermeLawisch/GuilhermeLawisch/blob/output/github-contribution-grid-snake.svg)
 <!--
 **GuilhermeLawisch/GuilhermeLawisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
