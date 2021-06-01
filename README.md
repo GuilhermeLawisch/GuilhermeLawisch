@@ -15,7 +15,7 @@
  PHP - laravel <br>
  SQL - MySQL
 
-![Snake animation]https://github.com/GuilhermeLawisch/
+![Snake animation]/GuilhermeLawisch/
 
 <!--
 **GuilhermeLawisch/GuilhermeLawisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
