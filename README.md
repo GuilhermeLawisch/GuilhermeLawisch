@@ -11,9 +11,9 @@
 - :book: I have knowledge in: <br>
  HTML/CSS <br>
  JS - ReactJS <br>
- NodeJS - typeorm <br>
+ NodeJS <br>
  PHP - laravel <br>
- SQL - MySQL
+ SQL - noSQL
  
  <div>
   <a href="https://github.com/GuilhermeLawisch">
