@@ -2,18 +2,19 @@
 
 - :man: My name is Guilherme Lawisch
 
-- :muscle: I'm 18 years old
+- :muscle: I'm 19 years old
 
 - :green_heart: I'm from Brasil
 
-- :runner: I'm a programming student
+- :runner: I'm a software developer
 
 - :book: I have knowledge in: <br>
  HTML/CSS <br>
- JS - ReactJS <br>
- NodeJS <br>
- PHP - laravel <br>
- SQL - noSQL
+ JS 
+ - ReactJS <br>
+ - VueJS <br>
+ - NodeJS <br>
+ SQL/noSQL
  
  <div>
   <a href="https://github.com/GuilhermeLawisch">
