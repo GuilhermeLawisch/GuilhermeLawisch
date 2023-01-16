@@ -9,15 +9,15 @@
 - :runner: I'm a software developer
 
 - :book: I have knowledge in: <br>
- HTML/CSS <br>
- JS 
- - ReactJS <br>
- - VueJS <br>
- - NodeJS <br>
- Fluter <br>
- - Android<br>
- - iOS<br>
- SQL/noSQL
+ - HTML/CSS <br>
+ - JS 
+  ReactJS <br>
+  VueJS <br>
+  NodeJS <br>
+ - Fluter <br>
+  Android<br>
+  iOS<br>
+ - SQL/noSQL
  
  <div>
   <a href="https://github.com/GuilhermeLawisch">
