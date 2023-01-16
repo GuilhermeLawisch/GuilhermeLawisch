@@ -10,7 +10,7 @@
 
 - :book: I have knowledge in: <br>
  - HTML/CSS <br>
- - JS 
+ - JS <br>
   ReactJS <br>
   VueJS <br>
   NodeJS <br>
