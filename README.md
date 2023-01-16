@@ -14,6 +14,9 @@
  - ReactJS <br>
  - VueJS <br>
  - NodeJS <br>
+ Fluter <br>
+ - Android<br>
+ - iOS<br>
  SQL/noSQL
  
  <div>
